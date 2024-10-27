@@ -1,0 +1,510 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.7)  7 FEB 2024 14:46
+entering extended mode
+**./lineære_modeller.tex
+(lineære_modeller.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+(C:\Users\45212\Desktop\Mitex\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\45212\Desktop\Mitex\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\45212\Desktop\Mitex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\45212\Desktop\Mitex\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\45212\Desktop\Mitex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
+))
+(C:\Users\45212\Desktop\Mitex\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count177
+\c@continuedfloat=\count178
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen142
+))
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks17
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks18
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks19
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\45212\Desktop\Mitex\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\45212\Desktop\Mitex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks21
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/geometry\geometry.cfg))
+(C:\Users\45212\Desktop\Mitex\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip61
+\fb@frw=\dimen161
+\fb@frh=\dimen162
+\FrameRule=\dimen163
+\FrameSep=\dimen164
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/ntheorem\ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+(C:\Users\45212\Desktop\Mitex\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\theorem@style=\toks22
+\theorem@@style=\toks23
+\theorembodyfont=\toks24
+\theoremnumbering=\toks25
+\theorempreskipamount=\skip62
+\theorempostskipamount=\skip63
+\theoremframepreskipamount=\skip64
+\theoremframepostskipamount=\skip65
+\theoreminframepreskipamount=\skip66
+\theoreminframepostskipamount=\skip67
+\theorem@preskip=\toks26
+\theorem@postskip=\toks27
+\theorem@framepreskip=\toks28
+\theorem@framepostskip=\toks29
+\theorem@inframepreskip=\toks30
+\theorem@inframepostskip=\toks31
+\theoremindent=\dimen165
+\theorem@indent=\dimen166
+\theoremrightindent=\dimen167
+\theorem@rightindent=\dimen168
+\theoremheaderfont=\toks32
+\theoremseparator=\toks33
+\theoremprework=\toks34
+\theorempostwork=\toks35
+\theoremsymbol=\toks36
+\qedsymbol=\toks37
+\theoremkeyword=\toks38
+\qedsymbol=\toks39
+\thm@topsep=\skip68
+\thm@topsepadd=\skip69
+\shadecolor=\toks40
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/theoremref\theoremref.sty
+Package: theoremref 2013/05/22 References with automatic theorem names
+\thmref@num=\count194
+)
+\c@frm-thm=\count195
+\c@thm=\count196
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box47
+)
+(lineære_modeller.aux (træningsopgaver.aux) (opgaver_bog.aux) (test.aux))
+\openout1 = `lineære_modeller.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 23.
+
+(C:\Users\45212\Desktop\Mitex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen169
+\scratchbox=\box48
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen170
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks42
+) (C:\Users\45212\Desktop\Mitex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(65.04256pt, 484.20988pt, 65.04256pt)
+* v-part:(T,H,B)=(72.26999pt, 657.65744pt, 65.04256pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=484.20988pt
+* \textheight=627.65744pt
+* \oddsidemargin=-7.22743pt
+* \evensidemargin=-7.22743pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(lineære_modeller.toc)
+\tf@toc=\write3
+\openout3 = `lineære_modeller.toc'.
+
+ [1
+
+{C:/Users/45212/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+\openout2 = `træningsopgaver.aux'.
+
+ (træningsopgaver.tex
+<img_1.png, id=9, 377.61075pt x 277.63725pt>
+File: img_1.png Graphic file (type png)
+<use img_1.png>
+Package pdftex.def Info: img_1.png  used on input line 5.
+(pdftex.def)             Requested size: 188.8049pt x 138.81828pt.
+ [2
+
+ <./img_1.png>]
+<img_2.png, id=20, 449.88075pt x 284.262pt>
+File: img_2.png Graphic file (type png)
+<use img_2.png>
+Package pdftex.def Info: img_2.png  used on input line 51.
+(pdftex.def)             Requested size: 224.93982pt x 142.13065pt.
+<img_3.png, id=21, 549.252pt x 377.61075pt>
+File: img_3.png Graphic file (type png)
+<use img_3.png>
+Package pdftex.def Info: img_3.png  used on input line 58.
+(pdftex.def)             Requested size: 274.62532pt x 188.8049pt.
+<img_4.png, id=22, 380.622pt x 284.262pt>
+File: img_4.png Graphic file (type png)
+<use img_4.png>
+Package pdftex.def Info: img_4.png  used on input line 64.
+(pdftex.def)             Requested size: 190.31052pt x 142.13065pt.
+ [3 <./img_2.png> <./img_3.png>] [4 <./img_4.png>]
+<img_5.png, id=32, 205.9695pt x 310.15875pt>
+File: img_5.png Graphic file (type png)
+<use img_5.png>
+Package pdftex.def Info: img_5.png  used on input line 105.
+(pdftex.def)             Requested size: 102.98448pt x 155.079pt.
+<img_6.png, id=33, 377.61075pt x 269.808pt>
+File: img_6.png Graphic file (type png)
+<use img_6.png>
+Package pdftex.def Info: img_6.png  used on input line 109.
+(pdftex.def)             Requested size: 188.8049pt x 134.90367pt.
+<img_7.png, id=34, 224.037pt x 328.8285pt>
+File: img_7.png Graphic file (type png)
+<use img_7.png>
+Package pdftex.def Info: img_7.png  used on input line 128.
+(pdftex.def)             Requested size: 112.01822pt x 164.41385pt.
+ [5 <./img_5.png> <./img_6.png>]
+<img_8.png, id=40, 523.9575pt x 516.12825pt>
+File: img_8.png Graphic file (type png)
+<use img_8.png>
+Package pdftex.def Info: img_8.png  used on input line 132.
+(pdftex.def)             Requested size: 261.9781pt x 258.06349pt.
+<img_9.png, id=41, 208.98074pt x 146.34676pt>
+File: img_9.png Graphic file (type png)
+<use img_9.png>
+Package pdftex.def Info: img_9.png  used on input line 136.
+(pdftex.def)             Requested size: 104.49011pt x 73.17319pt.
+<img_10.png, id=42, 676.32675pt x 499.8675pt>
+File: img_10.png Graphic file (type png)
+<use img_10.png>
+Package pdftex.def Info: img_10.png  used on input line 140.
+(pdftex.def)             Requested size: 338.16254pt x 249.93314pt.
+ [6 <./img_7.png> <./img_8.png> <./img_9.png>]
+<img_11.png, id=49, 662.475pt x 510.708pt>
+File: img_11.png Graphic file (type png)
+<use img_11.png>
+Package pdftex.def Info: img_11.png  used on input line 144.
+(pdftex.def)             Requested size: 331.2367pt x 255.35336pt.
+<img_12.png, id=50, 672.71326pt x 536.60475pt>
+File: img_12.png Graphic file (type png)
+<use img_12.png>
+Package pdftex.def Info: img_12.png  used on input line 148.
+(pdftex.def)             Requested size: 336.3558pt x 268.30171pt.
+) [7 <./img_10.png> <./img_11.png>] [8 <./img_12.png>]
+\openout2 = `opgaver_bog.aux'.
+
+
+(opgaver_bog.tex
+<img_13.png, id=61, 221.02576pt x 248.127pt>
+File: img_13.png Graphic file (type png)
+<use img_13.png>
+Package pdftex.def Info: img_13.png  used on input line 31.
+(pdftex.def)             Requested size: 154.71696pt x 173.6877pt.
+ [9
+
+
+ <./img_13.png>]
+<img_14.png, id=66, 245.718pt x 314.3745pt>
+File: img_14.png Graphic file (type png)
+<use img_14.png>
+Package pdftex.def Info: img_14.png  used on input line 61.
+(pdftex.def)             Requested size: 147.43193pt x 188.62614pt.
+<img_15.png, id=67, 216.81pt x 317.38576pt>
+File: img_15.png Graphic file (type png)
+<use img_15.png>
+Package pdftex.def Info: img_15.png  used on input line 66.
+(pdftex.def)             Requested size: 130.08699pt x 190.43292pt.
+ [10 <./img_14.png>]
+<img_16.png, id=72, 226.446pt x 342.078pt>
+File: img_16.png Graphic file (type png)
+<use img_16.png>
+Package pdftex.def Info: img_16.png  used on input line 76.
+(pdftex.def)             Requested size: 135.86864pt x 205.24837pt.
+<img_17.png, id=73, 340.8735pt x 337.26pt>
+File: img_17.png Graphic file (type png)
+<use img_17.png>
+Package pdftex.def Info: img_17.png  used on input line 82.
+(pdftex.def)             Requested size: 204.52567pt x 202.35756pt.
+ [11 <./img_15.png> <./img_16.png>]
+<img_18.png, id=79, 436.63126pt x 441.44925pt>
+File: img_18.png Graphic file (type png)
+<use img_18.png>
+Package pdftex.def Info: img_18.png  used on input line 92.
+(pdftex.def)             Requested size: 261.98077pt x 264.87158pt.
+) [12 <./img_17.png> <./img_18.png>]
+\openout2 = `test.aux'.
+
+ (test.tex
+<img_19.png, id=85, 339.06676pt x 298.11375pt>
+File: img_19.png Graphic file (type png)
+<use img_19.png>
+Package pdftex.def Info: img_19.png  used on input line 23.
+(pdftex.def)             Requested size: 203.44162pt x 178.86963pt.
+<img_20.png, id=86, 199.947pt x 157.7895pt>
+File: img_20.png Graphic file (type png)
+<use img_20.png>
+Package pdftex.def Info: img_20.png  used on input line 37.
+(pdftex.def)             Requested size: 119.96912pt x 94.67442pt.
+ [13
+
+
+ <./img_19.png>]
+<img_21.png, id=92, 338.4645pt x 320.397pt>
+File: img_21.png Graphic file (type png)
+<use img_21.png>
+Package pdftex.def Info: img_21.png  used on input line 42.
+(pdftex.def)             Requested size: 203.08026pt x 192.23967pt.
+<img_22.png, id=93, 296.90926pt x 453.49425pt>
+File: img_22.png Graphic file (type png)
+<use img_22.png>
+Package pdftex.def Info: img_22.png  used on input line 46.
+(pdftex.def)             Requested size: 178.14691pt x 272.09863pt.
+
+[14 <./img_20.png> <./img_21.png>]
+<img_23.png, id=99, 221.02576pt x 147.55125pt>
+File: img_23.png Graphic file (type png)
+<use img_23.png>
+Package pdftex.def Info: img_23.png  used on input line 53.
+(pdftex.def)             Requested size: 132.61647pt x 88.53142pt.
+<img_24.png, id=100, 335.45325pt x 269.20575pt>
+File: img_24.png Graphic file (type png)
+<use img_24.png>
+Package pdftex.def Info: img_24.png  used on input line 57.
+(pdftex.def)             Requested size: 201.27348pt x 161.52469pt.
+ [15 <./img_22.png> <./img_23.png>]
+<img_25.png, id=106, 582.978pt x 332.442pt>
+File: img_25.png Graphic file (type png)
+<use img_25.png>
+Package pdftex.def Info: img_25.png  used on input line 61.
+(pdftex.def)             Requested size: 291.48828pt x 166.22058pt.
+ [16 <./img_24.png> <./img_25.png>]
+<img_26.png, id=112, 268.00125pt x 461.92575pt>
+File: img_26.png Graphic file (type png)
+<use img_26.png>
+Package pdftex.def Info: img_26.png  used on input line 103.
+(pdftex.def)             Requested size: 134.00029pt x 230.96231pt.
+ [17 <./img_26.png>] [18] [19]) [20]
+
+AED: lastpage setting LastPage
+\tf@thm=\write4
+\openout4 = `lineære_modeller.thm'.
+
+(lineære_modeller.aux (træningsopgaver.aux) (opgaver_bog.aux) (test.aux)) ) 
+Here is how much of TeX's memory you used:
+ 5011 strings out of 481199
+ 76807 string characters out of 2913052
+ 328648 words of memory out of 3000000
+ 20547 multiletter control sequences out of 15000+200000
+ 540817 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,11n,45p,826b,183s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C
+:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users
+/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/45212/
+Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/45212/Desktop
+/Mitex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/45212/Desktop/Mitex/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/45212/Desktop/Mitex/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb><C:/Users/45212/Desktop/Mitex/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><C:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb>
+Output written on lineære_modeller.pdf (20 pages, 821163 bytes).
+PDF statistics:
+ 156 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+

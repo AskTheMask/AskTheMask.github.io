@@ -1,0 +1,343 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.7)  15 DEC 2023 13:48
+entering extended mode
+**./Kapitel_2.tex
+(Kapitel_2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+(C:\Users\45212\Desktop\Mitex\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\45212\Desktop\Mitex\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\45212\Desktop\Mitex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\45212\Desktop\Mitex\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\45212\Desktop\Mitex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
+))
+(C:\Users\45212\Desktop\Mitex\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count177
+\c@continuedfloat=\count178
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen142
+))
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks17
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks18
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks19
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Users\45212\Desktop\Mitex\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\45212\Desktop\Mitex\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\45212\Desktop\Mitex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks21
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/geometry\geometry.cfg))
+\c@thm=\count194
+
+(C:\Users\45212\Desktop\Mitex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box47
+)
+(Kapitel_2.aux (Introduktion.aux) (Førstegradsligninger.aux)
+(2_ligninger_med_2_ubekendte.aux) (Andengradsligninger.aux) (Opgaver.aux)
+(Løsning_til_opgaver.aux))
+\openout1 = `Kapitel_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 20.
+
+(C:\Users\45212\Desktop\Mitex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen161
+\scratchbox=\box48
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen162
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks23
+) (C:\Users\45212\Desktop\Mitex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(65.04256pt, 484.20988pt, 65.04256pt)
+* v-part:(T,H,B)=(72.26999pt, 657.65744pt, 65.04256pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=484.20988pt
+* \textheight=627.65744pt
+* \oddsidemargin=-7.22743pt
+* \evensidemargin=-7.22743pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(Kapitel_2.toc)
+\tf@toc=\write3
+\openout3 = `Kapitel_2.toc'.
+
+ [1
+
+{C:/Users/45212/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+\openout2 = `Introduktion.aux'.
+
+ (Introduktion.tex) [2
+
+]
+\openout2 = `Førstegradsligninger.aux'.
+
+ (Førstegradsligninger.tex [3
+
+
+])
+Overfull \hbox (11.12434pt too wide) in paragraph at lines 74--30
+[]\OT1/cmr/m/n/10 De 2 ek-sem-pler som blev gen-nemgaet i dette delka-pi-tel e
+r typisk hvad man kan for-vente at bruge frstegradsligninger
+ []
+
+[4]
+\openout2 = `2_ligninger_med_2_ubekendte.aux'.
+
+ (2_ligninger_med_2_ubekendte.tex [5
+
+
+] [6]
+<Figur1.png, id=28, 639.5895pt x 483.0045pt>
+File: Figur1.png Graphic file (type png)
+<use Figur1.png>
+Package pdftex.def Info: Figur1.png  used on input line 82.
+(pdftex.def)             Requested size: 387.36938pt x 292.53922pt.
+) [7 <./Figur1.png>]
+\openout2 = `Andengradsligninger.aux'.
+
+
+(Andengradsligninger.tex) [8
+
+
+]
+\openout2 = `Opgaver.aux'.
+
+ (Opgaver.tex) [9
+
+
+]
+\openout2 = `Løsning_til_opgaver.aux'.
+
+ (Løsning_til_opgaver.tex)
+[10
+
+
+] 
+AED: lastpage setting LastPage
+(Kapitel_2.aux (Introduktion.aux) (Førstegradsligninger.aux)
+(2_ligninger_med_2_ubekendte.aux) (Andengradsligninger.aux) (Opgaver.aux)
+(Løsning_til_opgaver.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4476 strings out of 481199
+ 69872 string characters out of 2913052
+ 331173 words of memory out of 3000000
+ 20008 multiletter control sequences out of 15000+200000
+ 540471 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,11n,45p,818b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/45212/Desktop/Mitex/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb><C:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cme
+x10.pfb><C:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Users/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
+rs/45212/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/45212
+/Desktop/Mitex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/45212/Desktop
+/Mitex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Kapitel_2.pdf (10 pages, 161996 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

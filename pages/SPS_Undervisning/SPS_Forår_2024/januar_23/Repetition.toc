@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Simple ligninger}{2}%
+\contentsline {subsection}{\numberline {1.1}Opgave}{2}%
+\contentsline {subsection}{\numberline {1.2}Opgave}{2}%
+\contentsline {subsection}{\numberline {1.3}Opgave}{3}%
+\contentsline {section}{\numberline {2}Andengradsligninger}{5}%
+\contentsline {subsection}{\numberline {2.1}Opgave}{5}%
+\contentsline {section}{\numberline {3}Brøkregning}{7}%
+\contentsline {subsection}{\numberline {3.1}Brøkregneregler}{7}%
+\contentsline {subsection}{\numberline {3.2}Opgave: Addition af brøker med fælles nævner}{9}%
+\contentsline {subsection}{\numberline {3.3}Opgave: Addition af brøker med forskellige nævnere}{9}%
+\contentsline {subsection}{\numberline {3.4}Opgave: Subtraktion af bøker med forskellige nævnere}{9}%
+\contentsline {subsection}{\numberline {3.5}Opgave: Subtraktion af brøker med forskellige nævnere}{10}%
+\contentsline {subsection}{\numberline {3.6}Opgave: Multiplikation af brøker}{10}%
+\contentsline {subsection}{\numberline {3.7}Opgave: Multiplikation af brøker}{10}%
+\contentsline {subsection}{\numberline {3.8}Opgave: Division af brøker}{10}%
+\contentsline {section}{\numberline {4}Procent regning}{11}%
+\contentsline {subsection}{\numberline {4.1}Opgave: Procentdel af et tal}{11}%
+\contentsline {subsection}{\numberline {4.2}Opgave: At beregne et procenttal}{11}%
+\contentsline {subsection}{\numberline {4.3}Opgave: At beregne hele mængden}{11}%
+\contentsline {section}{\numberline {5}Gange og parenteser}{12}%
+\contentsline {subsection}{\numberline {5.1}Opgave: Gang ind i parentesen}{12}%
+\contentsline {subsection}{\numberline {5.2}Opgave: Gang ind i parentesen}{12}%
+\contentsline {subsection}{\numberline {5.3}Opgave: Gang 2 parenteser sammen}{12}%
+\contentsline {subsection}{\numberline {5.4}Opgave: Gange 2 parenteser sammen}{12}%

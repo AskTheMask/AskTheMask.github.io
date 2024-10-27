@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage{parskip}
+\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{lastpage} 
+\usepackage{graphicx} % Required for inserting images
+\usepackage[margin=0.9in,top=1in,includefoot]{geometry}
+\usepackage{framed} % or, "mdframed"
+\usepackage[framed]{ntheorem}
+\usepackage{theoremref}
+\newframedtheorem{frm-thm}{Theorem}
+\makeatletter
+\newcommand*{\toccontents}{\@starttoc{toc}}
+\makeatother
+
+
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\NN}{\mathbb{N}}
+\newtheorem{thm}{Conjecture}
+
+\setcounter{section}{1}
+
+\begin{document}
+
+
+\author{Ask Madsen}
+\title{Løsning til mindstekravsopgaverne}
+\maketitle
+
+\toccontents
+\newpage
+
+\subsection{Reduktion, procenregning og andre regneregler}
+
+\input{Opgave_1}
+\include{Opgave_2}
+\include{Opgave_3}
+\include{Opgave_4}
+
+\newpage
+
+\subsection{Løsning af ligninger}
+
+\input{Opgave_5}
+\include{Opgave_6}
+\include{Opgave_7}
+\include{Opgave_8}
+
+
+\end{document}

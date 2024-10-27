@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Kapitel: Regneregler}{2}%
+\contentsline {subsection}{\numberline {1.1}Brøkregneregler}{3}%
+\contentsline {subsection}{\numberline {1.2}Kvadratsætninger}{6}%
+\contentsline {subsection}{\numberline {1.3}Opgaver}{8}%
+\contentsline {subsection}{\numberline {1.4}Løsning til opgaver}{10}%

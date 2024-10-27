@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{parskip}
+\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{lastpage} 
+\usepackage{graphicx} % Required for inserting images
+\usepackage[margin=0.9in,top=1in,includefoot]{geometry} 
+\makeatletter
+\newcommand*{\toccontents}{\@starttoc{toc}}
+\makeatother
+
+
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\NN}{\mathbb{N}}
+\newtheorem{thm}{Conjecture}
+
+\setcounter{section}{1}
+
+\begin{document}
+
+\author{Ask Madsen}
+\title{Håndbog for matematik B niveau}
+\maketitle
+
+\toccontents
+
+\include{Introduktion}
+
+\include{Førstegradsligninger}
+
+\include{2_ligninger_med_2_ubekendte}
+
+\include{Andengradsligninger}
+
+\include{Opgaver}
+
+\include{Løsning_til_opgaver}
+
+\end{document}
