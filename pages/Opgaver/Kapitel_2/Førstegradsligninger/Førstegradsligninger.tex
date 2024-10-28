@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{parskip}
+\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{lastpage} 
+\usepackage[shortlabels]{enumitem}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[margin=0.9in,top=1in,includefoot]{geometry}
+\usepackage{framed} % or, "mdframed"
+\usepackage[framed]{ntheorem}
+\usepackage{theoremref}
+\newframedtheorem{frm-thm}{Theorem}
+\makeatletter
+\newcommand{\ans}{\vspace*{4mm \textbf{Answer}}}
+\newcommand*{\toccontents}{\@starttoc{toc}}
+\makeatother
+
+
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\NN}{\mathbb{N}}
+\newtheorem{thm}{Conjecture}
+
+
+\begin{document}
+
+\author{Ask Madsen}
+\title{Førstegradslininger \\ Opgaver}
+\maketitle
+
+\toccontents
+
+\include{Opgaver}
+
+
+
+
+\end{document}

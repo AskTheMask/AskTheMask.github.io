@@ -1,0 +1,188 @@
+\section*{Multiplikation af parenteser}
+
+Når vi ganger 2 parenteser sammen skal vi altid gange alle ledene i den ene parentes med alle ledene i den anden parentes. Et led er typisk adskilt af enten et + eller et -. Vi ganger 2 parenteser sammen som nedenfor
+
+\begin{frm-thm}{Multiplikation af parenteser}
+\[(a\tikzmark{a} + b\tikzmark{b}) \cdot (c\tikzmark{c} + d\tikzmark{d}) = ac + ad + bc + bd
+\begin{tikzpicture}
+[overlay, remember picture, out=80, in = 100, distance = 0.5cm] \draw[->, black, shorten >=8pt, shorten <=3pt] (a.center) to (c.center)
+\end{tikzpicture}
+\begin{tikzpicture}
+[overlay, remember picture, out=60, in = 100, distance = 0.5cm] \draw[->, black, shorten >=8pt, shorten <=3pt] (a.center) to (d.center)
+\end{tikzpicture}
+\begin{tikzpicture}
+[overlay, remember picture, out=280, in = 250, distance = 0.5cm] \draw[->, black, shorten >=8pt, shorten <=3pt] (b.center) to (c.center)
+\end{tikzpicture}
+\begin{tikzpicture}
+[overlay, remember picture, out=280, in = 250, distance = 0.5cm] \draw[->, black, shorten >=8pt, shorten <=3pt] (b.center) to (d.center)
+\end{tikzpicture}
+\]
+
+\end{frm-thm}
+
+
+\textbf{Eksempel 1: Gange 2 parenteser sammen}
+
+Beregn følgende udtryk: $(a + 3)\cdot (b - 4)$.
+
+Vi ganger det første led i den første parenten, a, ind på ledene i den anden parentes, b og -4, derefter ganger vi det andet led, 3, ind på alle ledene i den anden parentes og får
+
+\begin{align*}
+(a + 3)\cdot (b - 4) = a\cdot b + a \cdot (-4) + 3 \cdot b + 3 \cdot (-4) = ab -4a +3b - 12
+\end{align*}
+
+
+I nogle tilfælde kan vi gange 2 parenteser sammen på en smartere måde. Her kan vi benytte os af de 3 kvadratsætninger som er givet ved
+
+
+\begin{frm-thm}{Første kvadratsætning}\thlabel{kvad_1}
+
+Lad a og b være 1 tal og 1 bogstav eller 2 forskellige bogstaver så gælder det at
+
+\[(a + b)^2 = a^2 + b^2 + 2ab\]
+\end{frm-thm}
+
+\begin{frm-thm}{Anden kvadratsætning}\thlabel{kvad_2}
+
+Lad a og b være 1 tal og 1 bogstav eller 2 forskellige bogstaver så gælder det at
+
+\[(a - b)^2 = a^2 + b^2 - 2ab\]
+\end{frm-thm}
+
+\begin{frm-thm}{Tredje kvadratsætning}\thlabel{kvad_3}
+
+Lad a og b være 1 tal og 1 bogstav eller 2 forskellige bogstaver så gælder det at
+
+\[(a + b)\cdot (a - b) = a^2 - b^2\]
+\end{frm-thm}
+
+Kvadratsætningerne kan kun bruges på parenteser som indeholder de samme led. Ledene må dog godt være adskilt af både + og -.
+
+For at snakke om i hvilke tilfælde vi benytter os af kvadratsætningerne er det lettest at snakke ud fra en række eksempler.
+
+\subsubsection*{Eksempel 2: Brug af første kvadratsætning}
+Hvis vi i en opgave støder på følgende parentes $(x + 3)^2$ eller $(x+3)\cdot (x+3)$ kan vi her benytte os af første kvadratsætning til at ophæve parentesen. Vi kan bruge første kvadratsætning så længe parentesen indeholder 2 led adsklit af et plus hvor de 2 led enten består at 1 tal og 1 bogstav eller 2 forskellige bogstaver. I vores tilfælde består de 2 led af 1 bogstav $x$ og et tal $3$. Bruger vi første kvadratsætning får vi
+
+\begin{align*}
+(x + 3)^2 = x^2 + 3^2 + 2\cdot x\cdot 3 = x^2 + 9 + 6x
+\end{align*}
+
+Hvis vi ikke havde brugt første kvadratsætning kunne vi ophæve parentesen på følgende måde
+
+\begin{align*}
+(x + 3)^2 = (x + 3) \cdot (x + 3) = x^2 + 3x + 3x + 3^2 = x^2 + 6x + 9
+\end{align*}
+
+Da dette både er mere besværgeligt og tager længere tid benytter man i stedet for kvadratsætningerne.
+
+\subsubsection*{Eksempel 3: Brug af anden kvadratsætning}
+Hvis vi i en opgave støder på følgende parentes $(x - 3)^2$ kan vi her benytte os af anden kvadratsætning da de 2 led i parentesen er adskilt af et minus. Vi får
+
+\begin{align*}
+(x - 3)^2 = x^2 + 3^2 -2\cdot x\cdot 3 = x^2 + 9 - 6x
+\end{align*}
+
+\subsubsection*{Eksempel 4: Brug af tredje kvadratsætning}
+Hvis vi i en opgave støder på følgende parentes $(x + 3)\cdot(x - 3)$ kan vi her benytte os af den tredje kvadratsætning da de 2 parenteser indeholder de samme led, men i den ene parentes er de adskilt af plus og i den anden af minus. Vi får
+
+\begin{align*}
+(x + 3)\cdot (x - 3) = x^2 - 3^2 = x^2 - 9
+\end{align*}
+
+
+I vil nu blive testet i at benytte jer af de rigtige kvadratsætninger, og om en af de 3 kvadratsætninger overhovedet kan bruges i de følgende opgaver. 
+
+
+
+\subsection*{Opgaver}
+
+
+\textbf{Opgave 1:}
+
+Beregn $(3+a) \cdot (5-a)$
+
+\textbf{Opgave 2:}
+
+Beregn $(4+a) \cdot (4+a)$
+
+\textbf{Opgave 3:}
+
+Beregn $(5-a) \cdot (5+a)$
+
+\textbf{Opgave 4:}
+
+Beregn $(3-a) \cdot (3-a)$
+
+\textbf{Opgave 5:}
+
+Beregn $(a + 2) \cdot (a + 2)$
+
+\textbf{Opgave 6:}
+
+Beregn $(a - 3) \cdot (a + 3)$
+
+\textbf{Opgave 7:}
+
+Beregn $(a - 5) \cdot (a - 5)$
+
+\textbf{Opgave 8:}
+
+Beregn $(a + 2) \cdot (a + 4)$
+
+
+
+
+
+\newpage
+
+
+\subsection*{Facit}
+
+
+\textbf{Opgave 1:}
+I denne opgave kan ingen af de 3 kvadratsætninger bruges.
+\begin{flalign*}
+-a^2 + 2a - 15&&
+\end{flalign*}
+
+\textbf{Opgave 2:}
+I denne opgave kan 1. kvadratsæting bruges.
+\begin{flalign*}
+a^2 + 8a + 16&&
+\end{flalign*}
+
+\textbf{Opgave 3:}
+I denne opgave kan 3. kvadratsætning bruges.
+\begin{flalign*}
+-a^2 + 25&&
+\end{flalign*}
+
+\textbf{Opgave 4:}
+I denne opgave kan 2. kvadratsætning bruges.
+\begin{flalign*}
+a^2 -6a + 9&&
+\end{flalign*}
+
+\textbf{Opgave 5:}
+I denne opgave kan 1. kvadratsætning bruges.
+\begin{flalign*}
+a^2 + 4a + 4&&
+\end{flalign*}
+
+\textbf{Opgave 6:}
+I denne opgave kan 3. kvadratsætning bruges.
+\begin{flalign*}
+a^2 - 9&&
+\end{flalign*}
+
+\textbf{Opgave 7:}
+I denne opgave kan 2. kvadratsætning bruges.
+\begin{flalign*}
+a^2 -10a + 25&&
+\end{flalign*}
+
+\textbf{Opgave 8:}
+I denne opgave kan ingen af de 3 kvadratsætninger bruges.
+\begin{flalign*}
+a^2 + 6a +8&&
+\end{flalign*}

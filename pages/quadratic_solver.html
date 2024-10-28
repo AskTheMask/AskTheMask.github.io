@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andengradsligning Løser og Graf</title>
+    <!-- Include MathJax for LaTeX rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <h2>Indtast en andengradspolynomium</h2>
+    <div>
+        <label for="polynomial-input">Indtast et andengradspolynomium (f.eks. "1, -5, 6" for \(x^2 - 5x + 6\)):</label>
+        <input type="text" id="polynomial-input" value="1, -5, 6">
+        <button onclick="solveAndPlot()">Beregn løsninger og plot</button>
+    </div>
+    
+    <!-- Container for displaying the LaTeX solution -->
+    <div id="solution-output" style="margin-top: 20px; font-size: 18px;"></div>
+    
+
+    <script>
+        function solveAndPlot() {
+            const input = document.getElementById("polynomial-input").value;
+            const [a, b, c] = input.split(',').map(Number);
+
+            // Calculate the discriminant
+            const D = b ** 2 - 4 * a * c;
+            const output = document.getElementById("solution-output");
+
+            // Prepare LaTeX strings based on the discriminant
+            let solutionLatex = `Vi er givet andengradsligningen \\(${a}x^2 + ${b}x + ${c} = 0\\).<br>`;
+            solutionLatex += `Vi aflæser først a, b og c værdien ud fra den generelle andengradsligning \\(ax^2 + bx + c = 0\\).<br>`;
+            solutionLatex += `a værdien er den værdi der står foran \\(x^2\\), b værdien er den værdi der står foran \\(x\\) og c værdien er den værdi der står for sig selv. Vi har<br>`;
+            solutionLatex += `\\[
+                \\begin{align*}
+                a &= ${a} \\\\
+                b &= ${b} \\\\
+                c &= ${c}
+                \\end{align*}
+            \\]<br>`;
+            solutionLatex += `Når vi har aflæst værdierne kan vi beregne diskriminanten D. Diskriminanten viser os hvor mange løsninger vores andengradsligning har.<br>`;
+            solutionLatex += `\\[
+                D = b^2 - 4ac = (${b})^2 - 4 \\cdot ${a} \\cdot ${c} = ${D}
+            \\]<br>`;
+
+            // Determine the number of solutions based on D
+            if (D < 0) {
+                solutionLatex += `Da \\(D < 0\\) har vores andengradsligning ingen løsninger.`;
+            } else if (D === 0) {
+                const x = -b / (2 * a);
+                solutionLatex += `Da \\(D = 0\\) har vores andengradsligning 1 løsning givet ved \\(x = \\frac{-b}{2a}\\).<br>`;
+                solutionLatex += `Løsningen bliver<br>`;
+                solutionLatex += `\\[
+                    x = \\frac{-(${b})}{2 \\cdot ${a}} = \\frac{${-b}}{${2 * a}} = ${x}
+                \\]`;
+            } else {
+                const sqrtD = Math.sqrt(D);
+                const x1 = (-b + sqrtD) / (2 * a);
+                const x2 = (-b - sqrtD) / (2 * a);
+                solutionLatex += `Da \\(D > 0\\) har vores andengradsligning 2 løsninger givet ved \\(x_1 = \\frac{-b + \\sqrt{D}}{2a}\\) og \\(x_2 = \\frac{-b - \\sqrt{D}}{2a}\\).<br>`;
+                solutionLatex += `Løsningerne bliver<br>`;
+                solutionLatex += `\\[
+                    \\begin{align*}
+                    x_1 &= \\frac{-(${b}) + \\sqrt{${D}}}{2 \\cdot ${a}} = \\frac{${-b} + ${sqrtD}}{${2 * a}} = ${x1} \\\\
+                    x_2 &= \\frac{-(${b}) - \\sqrt{${D}}}{2 \\cdot ${a}} = \\frac{${-b} - ${sqrtD}}{${2 * a}} = ${x2}
+                    \\end{align*}
+                \\]`;
+            }
+
+            // Set the HTML content and typeset with MathJax
+            output.innerHTML = solutionLatex;
+            MathJax.typesetPromise().catch(err => console.error("MathJax rendering error:", err));
+
+        }
+    </script>
+</body>
+</html>
