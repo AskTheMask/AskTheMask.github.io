@@ -4,6 +4,7 @@
 \usepackage{fancyhdr}
 \usepackage{amsmath}
 \usepackage{lastpage} 
+\usepackage{hyperref}
 \usepackage{graphicx} % Required for inserting images
 \usepackage[margin=0.9in,top=1in,includefoot]{geometry}
 \usepackage{framed} % or, "mdframed"
@@ -12,6 +13,7 @@
 \newframedtheorem{frm-thm}{Theorem}
 \makeatletter
 \newcommand*{\toccontents}{\@starttoc{toc}}
+\newcommand{\ans}{\subsection*{Løsning}}
 \makeatother
 
 
@@ -31,21 +33,63 @@
 \toccontents
 \newpage
 
-\subsection{Reduktion, procenregning og andre regneregler}
+\section*{Reduktion, procenregning og andre regneregler}
 
-\input{Opgave_1}
-\include{Opgave_2}
-\include{Opgave_3}
-\include{Opgave_4}
+\input{Opgave_1-10/Opgave_1/Opgave_1.tex}
+\newpage
+\input{Opgave_1-10/Opgave_2/Opgave_2.tex}
+\newpage
+\input{Opgave_1-10/Opgave_3/Opgave_3.tex}
+\newpage
+\input{Opgave_1-10/Opgave_4/Opgave_4.tex}
 
 \newpage
 
-\subsection{Løsning af ligninger}
+\section*{Løsning af ligninger}
 
-\input{Opgave_5}
-\include{Opgave_6}
-\include{Opgave_7}
-\include{Opgave_8}
+\input{Opgave_1-10/Opgave_5/Opgave_5.tex}
+\newpage
+\input{Opgave_1-10/Opgave_6/Opgave_6.tex}
+\newpage
+\input{Opgave_1-10/Opgave_7/Opgave_7.tex}
+\newpage
+\input{Opgave_1-10/Opgave_8/Opgave_8.tex}
+\newpage
+\input{Opgave_1-10/Opgave_9/Opgave_9.tex}
+\newpage
+\input{Opgave_1-10/Opgave_10/Opgave_10.tex}
+
+\section*{Geometri og trigonometri}
+
+\input{Opgave_11-20/Opgave_11/Opgave_11.tex}
+\newpage
+\input{Opgave_11-20/Opgave_12/Opgave_12.tex}
+\newpage
+\input{Opgave_11-20/Opgave_13/Opgave_13.tex}
+\newpage
+\input{Opgave_11-20/Opgave_14/Opgave_14.tex}
+\newpage
+\input{Opgave_11-20/Opgave_15/Opgave_15.tex}
+\newpage
+\input{Opgave_11-20/Opgave_16/Opgave_16.tex}
+\newpage
+\input{Opgave_11-20/Opgave_17/Opgave_17.tex}
+\newpage
+\input{Opgave_11-20/Opgave_18/Opgave_18.tex}
+\newpage
+\input{Opgave_11-20/Opgave_19/Opgave_19.tex}
+
+\section*{Vektorer}
+
+\input{Opgave_11-20/Opgave_20/Opgave_20.tex}
+\newpage
+\input{Opgave_21-30/Opgave_21/Opgave_21.tex}
+\newpage
+\input{Opgave_21-30/Opgave_22/Opgave_22.tex}
+\newpage
+\input{Opgave_21-30/Opgave_23/Opgave_23.tex}
+\newpage
+\input{Opgave_21-30/Opgave_24/Opgave_24.tex}
 
 
 \end{document}

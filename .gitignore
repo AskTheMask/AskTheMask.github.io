@@ -1,5 +1,65 @@
-.aux
-.log
-.thm
-.toc
-.synctex.gz
+.vscode
+__pycache__
+.pytest_cache
+
+delivery.zip
+
+# videos
+*.mp4
+
+# database
+db
+db_temp
+
+_minted-main
+# Ignore common LaTeX build files
+*.aux 
+*.bbl      
+*.blg  
+*.brf     
+*.dvi       
+*.fdb_latexmk 
+*.fls      
+*.idx        
+*.ilg       
+*.ind      
+*.lof     
+*.log      
+*.lot      
+*.lox       
+*.nav      
+*.out       
+*.pdfsync   
+*.snm       
+*.synctex.gz
+*.toc       
+*.vrb        
+*.xdy   
+*.minted   
+
+# Ignore PS, and EPS output files
+*.ps
+*.eps
+
+# Ignore auxiliary files created by the glossaries package
+*.acn        
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+
+# Ignore other auxiliary and backup files
+*.bak       
+*.bbl       
+*.tdo        
+
+# Ignore specific editor and IDE files
+# VSCode
+.vscode/
+
+# LaTeX editor files
+.texpadtmp/ 
+.swp        
+*~          
