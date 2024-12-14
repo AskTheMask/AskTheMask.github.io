@@ -1,0 +1,50 @@
+\subsection{Opgave 46}
+
+Intensiteten af strålingen fra en mobiltelefon aftager, når afstanden til mobiltelefonen øges. I tabellen ses sammenhørende værdier af intensitet I og afstand x. Der ses bort fra enheder.
+
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    Afstand $x$ & 0,01 & 0,05 & 0,1 & 0,2 & 1 \\\hline
+    Intensitet $I$ & 201,00 & 9,20 & 2,02 & 0,45 & 0,02 \\\hline
+\end{tabular}
+
+Det vides, at intensiteten I og afstenden x tilnærmelsesvist kan beskrives med en model på formen 
+
+\begin{align*}
+    I(x)=b\cdot x^a
+\end{align*}
+
+Bestem a og b.
+
+\ans
+
+Når vi har en model på formen $f(x) = b\cdot x^a$ har vi at gøre med en potens funktion.
+
+For en potens funktion kan vi beregne a værdien ud fra 2 datapunkter $(x_1, y_1)$ og $(x_2, y_2)$ ved følgende formel
+
+\begin{align*}
+    a = \frac{log(y_2) - log(y_1)}{log(x_2) - log(x_1)}
+\end{align*}
+
+Jeg vælger den første kolonne som mit første datapunkt og den sidste kolonne som mit andet datapunkt og får
+$(x_1, y_1) = (0,01, 201,00)$ og $(x_2, y_2) = (1, 0,02)$.
+
+Indsætter værdierne og får
+
+\begin{align*}
+    a = \frac{log(0,02) - log(201,00)}{log(1) - log(0,01)} = -2,00 
+\end{align*}
+
+For at bestemme b værdien bruger vi formlen 
+
+\begin{align*}
+    b = \frac{y_1}{x_1^a}
+\end{align*}
+
+Indsætter vi værdierne får vi
+
+\begin{align*}
+    b = \frac{201,00}{0,01^{-2,00}} = 0,0201
+\end{align*}
+
+Vi får altså værdierne $a = -2,00$ og $b = 0,0201$

@@ -1,0 +1,57 @@
+\subsection{Opgave 45}
+
+Tabellen viser antal frøer N i et vandhul i perioden fra 2012-2015. Tiden t måles i år fra 2012.
+
+Følgende data er tilgængelige:
+
+\begin{tabular}{|c|c|c|c|c|}
+    \hline
+    Tid t & 0 & 1 & 2 & 3 \\\hline
+    Antal frøer N & 4520 & 4260 & 4000 & 3750
+\end{tabular}
+
+Det oplyses, at udviklingen i antal frøer tilnærmelsesvis kan beskrives ved en model på formen:
+
+\begin{align*}
+    N(t) = a\cdot t + b
+\end{align*}
+
+a) Bestem a og b.
+
+\ans
+
+Da vi får at vide at udviklingen i antal frøer kan beskrives ved $N(t) = a\cdot t + b$ ved vi at udviklingen beskrives ved en lineær model $f(x) = a\cdot x + b$
+
+Ud fra 2 datapunkter kan vi altså beregne a værdien ved formlen
+
+\begin{align*}
+    a = \frac{y_2 - y_1}{x_2 - x_1}
+\end{align*}
+
+Jeg vælger den første kolonne (0, 4520) og den sidste kolonne (3, 3750) som mine 2 datapunkter så jeg får
+$(x_1, y_1) = (0, 4520)$ og $(x_2, y_2) = (3, 3750)$. Beregner nu a værdien
+
+\begin{align*}
+    a = \frac{3750 - 4520}{3 - 0} = \frac{-770}{3} = -256,67
+\end{align*}
+
+For en lineær funktion kan vi beregne b værdien ved følgende formel
+
+\begin{align*}
+    b = y_1 - a \cdot x_1
+\end{align*}
+
+Indsætter vi tallene får vi
+
+\begin{align*}
+    b = 4520 - (-256,67) \cdot 0 = 4520
+\end{align*}
+
+Vi har nu værdierne $a = -256,67$ og $b = 4520$.
+
+b) Hvad fortæller tallet a om udviklingen i antal frøer?
+
+\ans
+
+Tallet a fortæller om hvor meget antallet af frøer ændrer sig for hvert år t.
+Da a værdien er $a = -256,67$ betyder det altså at antallet af frøer i vandhullet falder med ca 256 frøer om året.
